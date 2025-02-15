@@ -134,7 +134,7 @@ ul{
   border-radius: 20%;
 }
 .edu, .exp, .sum, .contact, header{
-    background-image: url('media/Texture.png');
+    background-image: url('Texture.png');
     background-size: 1280px;
     background-repeat: no-repeat;
 }
